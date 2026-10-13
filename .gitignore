@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# runtime artifacts
+frames/
+watch-*/
+video.mkv
+video.mp4
+video.webm
+*.mp4
+*.mkv
+*.webm
+*.srt
+*.vtt
+
+# secrets / local env
+.env
+.netrc
